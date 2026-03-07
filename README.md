@@ -52,11 +52,6 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=louguerrier22&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=louguerrier22&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=louguerrier22&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak" />
 </p>
 
