@@ -39,7 +39,7 @@
 ## Minecraft Development
 
 <p align="center">
-  <a href="https://www.spigotmc.org/members/l1cked.2343926/#ressource">
+  <a href="https://www.spigotmc.org/members/l1cked.2343926/#resources">
     <img src="https://img.shields.io/badge/SpigotMC-Profile-ED8106?style=for-the-badge" alt="SpigotMC Profile" />
   </a>
   <a href="https://builtbybit.com/creators/l1cked.723134/">
