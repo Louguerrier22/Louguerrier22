@@ -24,6 +24,7 @@
 - 💻 Working with **Java, JavaScript, Python, Kotlin, C#, PHP, SQL**
 - ⚙️ Using **Gradle, Laravel, MySQL, WinUI, .NET, Git, GitHub, YAML, Bash**
 - 🧠 Into **coding, networking, cybersec, and building cool stuff**
+- 🏢 I run [L1cked](https://github.com/orgs/L1cked), my personal GitHub organization for my public projects.
 - 🚀 Always learning and shipping new things
 
 ---
