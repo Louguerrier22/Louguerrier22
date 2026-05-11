@@ -20,35 +20,43 @@
 
 ## About Me
 
-- 🎂 Age: **19**
-- 💻 Working with **Java, JavaScript, Python, Kotlin, C#, PHP, SQL**
-- ⚙️ Using **Gradle, Laravel, MySQL, WinUI, .NET, Git, GitHub, YAML, Bash**
-- 🧠 Into **coding, networking, cybersec, and building cool stuff**
-- 🏢 I run [L1cked](https://github.com/orgs/L1cked), my personal GitHub organization for my public projects.
-- 🚀 Always learning and shipping new things
+- Age: **19**
+- Working with **Java, JavaScript, Python, Kotlin, C#, PHP, SQL**
+- Using **Gradle, Laravel, MySQL, WinUI, .NET, Git, GitHub, YAML, Bash**
+- Into **coding, networking, cybersec, Minecraft systems, and building useful tools**
+- I run [L1cked](https://github.com/orgs/L1cked), my personal GitHub organization for public projects
+- Always learning and shipping new things
 
 ---
 
-## Tech Stack
+## Main Project
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,kotlin,cs,php,mysql,gradle,laravel,dotnet,git,github,vscode,idea,bash" alt="Tech Stack" />
-</p>
-
----
-
-## Minecraft Development
-
-<p align="center">
-  <a href="https://www.spigotmc.org/members/l1cked.2343926/#resources">
-    <img src="https://img.shields.io/badge/SpigotMC-Profile-ED8106?style=for-the-badge" alt="SpigotMC Profile" />
-  </a>
-  <a href="https://builtbybit.com/creators/l1cked.723134/">
-    <img src="https://img.shields.io/badge/BuiltByBit-Creator-00b894?style=for-the-badge" alt="BuiltByBit Creator" />
+  <a href="https://l1cked.github.io/MayorSystem/">
+    <img src="https://raw.githubusercontent.com/L1cked/MayorSystem/main/docs/images/logo-site.png" width="92" height="92" alt="MayorSystem logo" />
   </a>
 </p>
 
----
+<h3 align="center">MayorSystem</h3>
+
+<p align="center">
+  A Paper Minecraft plugin for mayor elections, voting, perks, displays, admin tools, integrations, and addon development.
+</p>
+
+<p align="center">
+  <a href="https://l1cked.github.io/MayorSystem/">
+    <img src="https://img.shields.io/badge/Website-Open-0ea5e9?style=for-the-badge" alt="MayorSystem Website" />
+  </a>
+  <a href="https://github.com/L1cked/MayorSystem">
+    <img src="https://img.shields.io/badge/Repository-GitHub-111827?style=for-the-badge&logo=github" alt="MayorSystem Repository" />
+  </a>
+  <a href="https://deepwiki.com/L1cked/MayorSystem">
+    <img src="https://img.shields.io/badge/Docs-DeepWiki-d4af37?style=for-the-badge" alt="MayorSystem Docs" />
+  </a>
+  <a href="https://www.spigotmc.org/resources/mayorsystem.132472/">
+    <img src="https://img.shields.io/badge/Spigot-Resource-ED8106?style=for-the-badge" alt="MayorSystem Spigot Resource" />
+  </a>
+</p>
 
 ## GitHub Stats
 
