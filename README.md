@@ -70,13 +70,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Play-starforgedsmp.net-0ea5e9?style=for-the-badge&amp;logo=minecraft&amp;logoColor=white" alt="Server address: starforgedsmp.net" />
   <a href="https://discord.gg/sYRJK6XYzS">
     <img src="https://img.shields.io/badge/Discord-Join%20StarForgedSMP-5865F2?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Join the StarForgedSMP Discord" />
   </a>
 </p>
 
-<p align="center"><strong>Server address:</strong> <code>starforgedsmp.net</code></p>
+<p align="center"><strong>Play StarForgedSMP</strong> &middot; Copy the address below</p>
+
+```text
+starforgedsmp.net
+```
 
 ---
 
