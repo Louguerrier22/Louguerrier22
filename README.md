@@ -75,18 +75,9 @@
   </a>
 </p>
 
-<table align="center">
-<tr>
-<td valign="middle"><strong>Play StarForgedSMP</strong></td>
-<td valign="middle">
-
 ```text
 starforgedsmp.net
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
