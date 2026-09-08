@@ -75,11 +75,18 @@
   </a>
 </p>
 
-<p align="center"><strong>Play StarForgedSMP</strong> &middot; Copy the address below</p>
+<table align="center">
+<tr>
+<td valign="middle"><strong>Play StarForgedSMP</strong></td>
+<td valign="middle">
 
 ```text
 starforgedsmp.net
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
