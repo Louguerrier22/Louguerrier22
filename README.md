@@ -28,7 +28,7 @@
 - Building with **Gradle, Laravel, PostgreSQL, MySQL, WinUI, and .NET**.
 - Into **coding, networking, cybersecurity, Minecraft systems, and useful tools**.
 - Developing everything from player-facing interfaces and gameplay to databases, integrations, and cross-server systems.
-- Running [**L1 Development**](https://github.com/L1DevHQ), with client projects in [**L1 Development Projects**](https://github.com/L1DevProjects) and personal projects here.
+- Building websites, client platforms, integrations, and custom software through **L1 Development**.
 - Always learning, shipping, and improving what I've already built.
 
 ## Tech Stack
